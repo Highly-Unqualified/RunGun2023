@@ -1,0 +1,8 @@
+D:\Godot\run_gun_2023\.mono\temp\obj\Debug\rungun2023.csprojAssemblyReference.cache
+D:\Godot\run_gun_2023\.mono\temp\obj\Debug\rungun2023.csproj.CoreCompileInputs.cache
+D:\Godot\run_gun_2023\.mono\temp\obj\Debug\rungun2023.AssemblyInfoInputs.cache
+D:\Godot\run_gun_2023\.mono\temp\obj\Debug\rungun2023.AssemblyInfo.cs
+D:\Godot\run_gun_2023\.mono\temp\bin\Debug\rungun2023.dll
+D:\Godot\run_gun_2023\.mono\temp\bin\Debug\rungun2023.pdb
+D:\Godot\run_gun_2023\.mono\temp\obj\Debug\rungun2023.dll
+D:\Godot\run_gun_2023\.mono\temp\obj\Debug\rungun2023.pdb
