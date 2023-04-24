@@ -7,6 +7,8 @@ public class Player : KinematicBody2D
     // private int a = 2;
     // private string b = "text";
     // Export tag exposes to the editor
+	[Export]
+	public int health = 80;
     [Export]
     public float speed = 275.00F;
     [Export]
@@ -70,4 +72,18 @@ public class Player : KinematicBody2D
 
         _velocity = MoveAndSlide(_velocity, UP_DIRECTION);
     }
+
+	public int TakeDamage(int damage)
+	{
+		// TO DO #1: set this up in a basic punching bag node that handles damage, and is extended by the player and enemies.
+		// TO DO #2: basic plan for extending this method with extra features.
+		// Perhaps a sort of "control" variable can be created and be assigned to other nodes to cause extra effects...
+		// Something like that could prevent the Player script from becoming a messy doombox of methods stored here for random effects of other weapons, characters, or effects.
+		health -= damage;
+
+		// return the damage dealt, in the future if we have shields or armor that affects the above calculations, then we return the final result of damage dealt
+		// This could allow effects like bonuses that are based on the damage dealt.
+		return damage;
+
+	}
 }

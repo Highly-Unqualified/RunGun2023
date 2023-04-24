@@ -6,7 +6,6 @@ public class HitBox : Area2D
     // Declare member variables here. Examples:
     // private int a = 2;
     // private string b = "text";
-    public int Damage = 20;
 
     public override _Init()
     {

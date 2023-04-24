@@ -3,9 +3,9 @@ using System;
 
 public class HurtBox : Area2D
 {
-    // Declare member variables here. Examples:
-    // private int a = 2;
-    // private string b = "text";
+    // could be altered based on the weapon or owner of the hurtbox
+    [Export]
+    public int Damage = 20;
 
     public override _Init()
     {
@@ -27,7 +27,7 @@ public class HurtBox : Area2D
 
         if (owner.HasMethod("TakeDamage"))
         {
-            owner.TakeDamage(hitbox.Damage);
+            owner.TakeDamage(Damage);
         }
     }
 
