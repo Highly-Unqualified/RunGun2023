@@ -6,3 +6,12 @@ D:\Godot\run_gun_2023\.mono\temp\bin\Debug\rungun2023.dll
 D:\Godot\run_gun_2023\.mono\temp\bin\Debug\rungun2023.pdb
 D:\Godot\run_gun_2023\.mono\temp\obj\Debug\rungun2023.dll
 D:\Godot\run_gun_2023\.mono\temp\obj\Debug\rungun2023.pdb
+C:\Users\gmhob\Desktop\gamedev\RunGun2023\.mono\temp\bin\Debug\rungun2023.dll
+C:\Users\gmhob\Desktop\gamedev\RunGun2023\.mono\temp\bin\Debug\rungun2023.pdb
+C:\Users\gmhob\Desktop\gamedev\RunGun2023\.mono\temp\obj\Debug\rungun2023.csproj.AssemblyReference.cache
+C:\Users\gmhob\Desktop\gamedev\RunGun2023\.mono\temp\obj\Debug\rungun2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmhob\Desktop\gamedev\RunGun2023\.mono\temp\obj\Debug\rungun2023.AssemblyInfoInputs.cache
+C:\Users\gmhob\Desktop\gamedev\RunGun2023\.mono\temp\obj\Debug\rungun2023.AssemblyInfo.cs
+C:\Users\gmhob\Desktop\gamedev\RunGun2023\.mono\temp\obj\Debug\rungun2023.csproj.CoreCompileInputs.cache
+C:\Users\gmhob\Desktop\gamedev\RunGun2023\.mono\temp\obj\Debug\rungun2023.dll
+C:\Users\gmhob\Desktop\gamedev\RunGun2023\.mono\temp\obj\Debug\rungun2023.pdb
